@@ -1,0 +1,7 @@
+name = "VandyHelpers"
+uuid = "1fdcf7a2-6766-4ea0-b072-ae837a1fb9f4"
+authors = ["mvandegraaff <vandegraaff@stanford.edu>"]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
